@@ -2,7 +2,6 @@
 
 ## Project Overview
 
-In this project you will be writing all the SQL statements for an Olympic metrics reporting web application called Gold Medal Metrics.
 
 Gold Medal Metrics allows users to:
  - View countries in a list with their population, GDP, and number of Olympic gold medals.
@@ -13,9 +12,12 @@ Gold Medal Metrics allows users to:
 
 ## How To Begin
 
-To start, download the starting code for this project <a href="https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/gold-medal-metrics/project-5-gold-medal-metrics-start.zip" target="_blank">here</a>. After downloading the zip folder, double click it to uncompress it and access the contents of this project.
+To start, download the zip folder, double click it to uncompress it and access the contents of this project.
 
 To view the webpage, run `npm run webpack` to compile the front-end files, and follow that with `open index.html` from the root directory of this project. To start your server, run `npm install` and then `node server.js`. Refresh your browser to collect the information from the server. Every time you change **server.js**, you will have to restart your server before the changes will take effect. To do this press "control + c" in the bash terminal where your server is running (or close the terminal) to shut it down and then re-run `node server.js` to start it again. While your server is running, you will not be able to run commands in the bash terminal, so open a new terminal if you want to run other commands.
+
+
+### Project Requirement from Codeacademy 
 
 ## Implementation Details
 
